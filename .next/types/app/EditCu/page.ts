@@ -1,4 +1,4 @@
-// File: C:\Users\User\y\src\app\EditCu\page.tsx
+// File: C:\Users\User\front\y\src\app\EditCu\page.tsx
 import * as entry from '../../../../src/app/EditCu/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

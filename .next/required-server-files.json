@@ -97,7 +97,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "C:\\Users\\User\\y",
+    "outputFileTracingRoot": "C:\\Users\\User\\front\\y",
     "experimental": {
       "useSkewCookie": false,
       "nodeMiddleware": false,
@@ -288,10 +288,10 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.js",
     "turbopack": {
-      "root": "C:\\Users\\User\\y"
+      "root": "C:\\Users\\User\\front\\y"
     }
   },
-  "appDir": "C:\\Users\\User\\y",
+  "appDir": "C:\\Users\\User\\front\\y",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",
